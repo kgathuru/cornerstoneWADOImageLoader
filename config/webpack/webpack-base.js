@@ -23,7 +23,7 @@ module.exports = {
     },
     globalObject: 'this',
     path: outputPath,
-    publicPath: '',
+    publicPath: 'assets/cornerstone',
   },
   devtool: 'source-map',
   externals: {
